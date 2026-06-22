@@ -52,7 +52,7 @@ main{max-width:1140px;margin:0 auto;padding:0 20px 80px}
   color:#fff;font-weight:800;font-size:14px;cursor:pointer;
   box-shadow:0 4px 12px rgba(120,150,180,.22);
   transition:filter .15s,transform .15s}
-.pick:hover{filter:brightness(.96);transform:translateY(-1px)}
+.pick:hover{filter:brightness(.96);transform:translateY(-1px); background:var(--accent)}
 .tag{margin-top:auto;align-self:flex-start;background:var(--ink);
   padding:7px 12px;border-radius:999px;font-weight:700;font-size:13px}
 
